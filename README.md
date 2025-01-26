@@ -7,6 +7,8 @@
 
 Зайдя на канал, вам будет предложено ознакомиться с текущими правилами, не игнорируйте их.
 
-Проект сделан на энтузиазме, vps-сервер для бота арендуется за деньги. Любая помощь приветствуется, если есть желание и возможность поддержать развитие канала/бота, то можно сделать это тут: https://www.donationalerts.com/r/sociophobenoob
+Проект сделан на энтузиазме, vps-сервер для бота арендуется за деньги. Любая помощь приветствуется, если есть желание и возможность поддержать развитие канала/бота, то можно сделать это тут:  
+https://boosty.to/oldschoolviktorina  
+https://www.donationalerts.com/r/sociophobenoob
 
 ![OldSchoolViktorina](https://github.com/Occisor/OldSchoolViktorina/blob/main/osv_f.gif?raw=true)
